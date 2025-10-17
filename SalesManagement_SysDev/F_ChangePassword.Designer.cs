@@ -39,12 +39,14 @@
             label1.Size = new Size(51, 15);
             label1.TabIndex = 0;
             label1.Text = "パスワード";
+            
             // 
             // F_ChangePassword
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackColor = Color.SkyBlue;
+            ClientSize = new Size(524, 289);
             Controls.Add(label1);
             Name = "F_ChangePassword";
             Text = "F_ChangePassword";
