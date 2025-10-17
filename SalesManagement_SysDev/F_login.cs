@@ -715,5 +715,7 @@ namespace SalesManagement_SysDev
 
             MessageBox.Show("サンプルデータ登録完了");
         }
+
+        
     }
 }
